@@ -81,3 +81,7 @@ the name of the theme you want in a file named ```./config.json```:
 {
     "theme": "material-ocean"
 }
+
+## All Information
+
+All themes and configuration is based on [This](https://github.com/antoniosarosi/dotfiles)

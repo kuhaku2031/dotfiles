@@ -84,3 +84,8 @@ coloca su nombre en un archivo llamado ```./config.json```:
     "theme": "material-ocean"
 }
 ```
+
+
+## Toda La Informacion 
+
+Todos los datos e informacion sacada como temas, estan basados [Aqui](https://github.com/antoniosarosi/dotfiles)
