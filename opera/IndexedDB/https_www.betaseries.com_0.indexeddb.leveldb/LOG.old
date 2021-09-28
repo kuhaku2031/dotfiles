@@ -1,0 +1,6 @@
+2021/06/09-23:45:22.475 a32 Creating DB /home/coco/.config/opera/IndexedDB/https_www.betaseries.com_0.indexeddb.leveldb since it was missing.
+2021/06/09-23:45:22.627 a32 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.betaseries.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-23:47:49.707 a30 Level-0 table #5: started
+2021/06/09-23:47:49.786 a30 Level-0 table #5: 15950 bytes OK
+2021/06/09-23:47:49.854 a30 Delete type=0 #3
+2021/06/09-23:47:49.854 a30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

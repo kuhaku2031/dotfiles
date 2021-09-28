@@ -1,0 +1,6 @@
+2021/06/07-09:12:51.088 3d7 Creating DB /home/coco/.config/opera/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb since it was missing.
+2021/06/07-09:12:51.228 3d7 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/07-09:13:10.721 3d7 Level-0 table #5: started
+2021/06/07-09:13:10.776 3d7 Level-0 table #5: 1226 bytes OK
+2021/06/07-09:13:10.818 3d7 Delete type=0 #3
+2021/06/07-09:13:10.818 3d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,45 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/CursoDesde0">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CursoDesde0 – main.py" projectWorkspaceId="1tLD55rAqrS0q23db04ilqieYbg">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-211.7142.13" />
+              <option name="buildTimestamp" value="1618994124423" />
+              <frame x="0" y="24" width="1366" height="744" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1622539296826" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/CursoPython">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CursoPython" projectWorkspaceId="1tLaVEyBiEHy1EGpfG2LAC1GZh6">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-211.7142.13" />
+              <option name="buildTimestamp" value="1618994151943" />
+              <frame x="0" y="24" width="1366" height="744" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1622550845751" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/WebSite">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebSite – index.py" opened="true" projectWorkspaceId="1tLeUyvTsRXgT4bER34h8px1Bbx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-211.7142.13" />
+              <option name="buildTimestamp" value="1618994151943" />
+              <frame x="0" y="24" width="1366" height="744" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1622552818018" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

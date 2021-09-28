@@ -1,0 +1,16 @@
+.css_button {
+  width: 255px !important;
+  color: #ffffff !important;
+  font-size: 13px !important;
+  margin-left: 5px !important;
+  border-radius: 5px !important;
+  font-family: arial !important;
+  background-color: #5f4299 !important;
+  transition: 300ms ease all !important;
+  -moz-transition: 300ms ease all !important;
+  -webkit-transition: 300ms ease all !important;
+}
+
+.css_button:hover {
+  background-color: #573d8c !important;
+}

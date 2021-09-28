@@ -1,0 +1,24 @@
+2021/06/26-06:00:25.444 54c Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/26-06:00:25.445 54c Recovering log #507
+2021/06/26-06:00:26.813 54c Reusing old log /home/coco/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000507.log 
+2021/06/26-06:12:04.970 59d Level-0 table #513: started
+2021/06/26-06:12:05.082 59d Level-0 table #513: 762843 bytes OK
+2021/06/26-06:12:05.119 59d Delete type=0 #507
+2021/06/26-06:12:05.120 59d Manual compaction at level-0 from '\x00\x9a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/26-06:14:04.890 67e Level-0 table #515: started
+2021/06/26-06:14:04.951 67e Level-0 table #515: 937 bytes OK
+2021/06/26-06:14:05.016 67e Delete type=0 #512
+2021/06/26-06:14:05.016 67e Manual compaction at level-0 from '\x00\x99\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x99\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 132863 : 0
+2021/06/26-06:14:05.016 67e Compacting 1@0 + 1@1 files
+2021/06/26-06:14:05.080 67e Generated table #516@0: 2310 keys, 24264 bytes
+2021/06/26-06:14:05.080 67e Compacted 1@0 + 1@1 files => 24264 bytes
+2021/06/26-06:14:05.115 67e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/26-06:14:05.116 67e Delete type=2 #515
+2021/06/26-06:14:05.116 657 Manual compaction at level-0 from '\x00\x99\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 132863 : 0 .. '\x00\x9a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/26-06:55:36.848 88f Compacting 1@1 + 1@2 files
+2021/06/26-06:55:36.974 88f Generated table #517@1: 210 keys, 5855 bytes
+2021/06/26-06:55:36.974 88f Compacted 1@1 + 1@2 files => 5855 bytes
+2021/06/26-06:55:37.044 88f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/26-06:55:37.045 88f Delete type=2 #513
+2021/06/26-06:55:37.045 88f Delete type=2 #516
+2021/06/26-06:55:37.045 88f Delete type=2 #510

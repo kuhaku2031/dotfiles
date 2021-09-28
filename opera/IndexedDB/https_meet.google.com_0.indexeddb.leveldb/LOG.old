@@ -1,0 +1,8 @@
+2021/06/04-23:02:54.257 757 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-23:02:54.257 757 Recovering log #11
+2021/06/04-23:02:54.257 757 Reusing old log /home/coco/.config/opera/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000011.log 
+2021/06/04-23:03:26.266 82b Level-0 table #16: started
+2021/06/04-23:03:26.267 82b Level-0 table #16: 0 bytes OK
+2021/06/04-23:03:26.298 82b Delete type=0 #11
+2021/06/04-23:03:26.299 82b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/04-23:03:26.299 82b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

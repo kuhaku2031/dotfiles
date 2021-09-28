@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Options - Website Theme Manager</title>
+    <link rel="stylesheet" type="text/css" href="options.css">
+    <link rel="icon" type="image/png" href="../icons/enabled/16.png">
+  </head>
+  <body class="flex">
+    <div class="content">
+      <div class="information">
+        <p>
+          Website Theme Manager enhances your browsing experience by allowing you to customize the way a website looks. By using custom styles (css) you can change colors, fonts, and almost all HTML contents within a page; meaning completely redesigning the entire page. Website Theme Manager enables you to easily manage (add, edit or remove) styles. In order to add styles, there are two options available. First, you can visit <a target="_blank" rel="noopener" href="https://userstyles.org/">userstyle</a> website, find your desired theme and click on "Add This Theme", the Theme will be added to the table automatically. Second option is to copy and paste your desired theme (css) and add it to the theme table here (an example is provided below). Once a theme is added, you can enable or disable the theme or even permanently delete it from memory. <b>Note</b>: in order to report bugs please visit Website Theme Manager's <a target="_blank" href="https://mybrowseraddon.com/website-theme-manager.html">homepage</a> and fill the bug report form.
+        </p>
+      </div>
+      <div class="information">
+        <p>
+          <b>Example</b>: In order to add themes manually, a sample style (Theme) is shown below. Column (1) shows the theme number. Column (2) is where you put the Theme Name. Theme name is used to find themes from the memory, to add a name, please use small letters with no space(s). Column (3) is the author name. Column (4) is the CSS (style) code. You can use your own style or styles from <a target="_blank" rel="noopener" href="https://userstyles.org/">userstyles</a> collection. Column (5) is to activate or inactivate the theme, blue color indicates an active and gray color indicates an inactive code (clicking the button will swap the colors). Column (6) is to permanently delete a theme item. To add themes automatically, as mentioned above, please visit <a target="_blank" rel="noopener" href="https://userstyles.org/">userstyle</a> website, find your desired theme and click on <b>"Add This Theme"</b>.
+        </p>
+      </div>
+      <div class="information">
+        <table align="center" style="max-width: 1280px; opacity: 0.9; padding: 0 5px">
+          <thead><tr><td>#</td><td>Name</td><td>Author</td><td>Style (CSS)</td><td>Active</td><td>Delete</td></tr></thead>
+          <tbody style="font-family: monospace">
+            <tr>
+              <td style="width: 30px">1</td>
+              <td style="width: 150px">dark-google</td>
+              <td style="width: 150px">WTM</td>
+              <td style="width: 700px">@-moz-document url-prefix(http://www.google.com) {html, body {background-color: black !important}}</td>
+              <td style="width: 40px; background-color: #5f4299"></td>
+              <td style="width: 40px; background: url('close-black.png') no-repeat center center"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div id="content" class="flex">
+      <div style="padding: 10px 0">
+        <div class="information"><p>Enter a desired values for Theme Name, Author Name and Style (CSS), then Click on the (+) Button to add it to the Table.</p></div>
+        <table style="height: 200px">
+          <thead><tr><td>Name</td><td>Author</td><td>Style (CSS)</td><td></td></tr></thead>
+          <tbody>
+            <tr id="input-field">
+              <td type="code-item"><textarea rows="5" cols="20" title="Enter a valid url" placeholder="name"></textarea></td>
+              <td type="code-item"><textarea rows="5" cols="20" title="Enter JavaScript Code" placeholder="author"></textarea></td>
+              <td type="code-item"><textarea rows="10" cols="90" title="Enter CSS Code" placeholder="style"></textarea></td>
+              <td id="input-field-add" type="code-item-add" title="Add Header Item"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <table id="header-value-table">
+          <thead>
+            <tr>
+              <td>#</td><td>Name</td><td>Author</td><td>Style (CSS)</td>
+              <td title="Activate or Inactive the code">A</td>
+              <td title="Remove this code">✕</td>
+            </tr>
+          </thead>
+          <tbody id="header-value-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+    <script type='text/javascript' src="options.js"></script>
+  </body>
+</html>

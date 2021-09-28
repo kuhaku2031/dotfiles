@@ -1,0 +1,23 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10d6ea6861000162890166100000007090003
+clientId2=10d6ea6861000162890167500000007090006
+clientId3=10d6ea6861000162890168600000007090007
+count=3
+program1=/usr/lib/DiscoverNotifier
+program2=pulseaudio
+program3=/usr/bin/clementine
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10d6ea6861000162890166100000007090003_1628902823_636326
+restartCommand2=
+restartCommand3=/usr/bin/clementine,-session,10d6ea6861000162890168600000007090007_1628902823_635576
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=coco
+userId2=coco
+userId3=coco

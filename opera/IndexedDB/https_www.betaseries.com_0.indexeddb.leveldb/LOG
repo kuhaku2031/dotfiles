@@ -1,0 +1,15 @@
+2021/06/09-23:47:50.263 620 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.betaseries.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-23:47:50.263 620 Recovering log #4
+2021/06/09-23:47:50.263 620 Reusing old log /home/coco/.config/opera/IndexedDB/https_www.betaseries.com_0.indexeddb.leveldb/000004.log 
+2021/06/09-23:51:32.635 620 Level-0 table #8: started
+2021/06/09-23:51:32.718 620 Level-0 table #8: 23134 bytes OK
+2021/06/09-23:51:32.755 620 Delete type=0 #4
+2021/06/09-23:51:32.756 620 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/09-23:51:32.756 b70 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1069 : 1
+2021/06/09-23:51:32.756 b70 Compacting 1@1 + 1@2 files
+2021/06/09-23:51:32.797 b70 Generated table #9@1: 95 keys, 2116 bytes
+2021/06/09-23:51:32.797 b70 Compacted 1@1 + 1@2 files => 2116 bytes
+2021/06/09-23:51:32.832 b70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/09-23:51:32.833 b70 Delete type=2 #5
+2021/06/09-23:51:32.833 b70 Delete type=2 #8
+2021/06/09-23:51:32.834 b70 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1069 : 1 .. (end); will stop at (end)

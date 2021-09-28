@@ -1,0 +1,8 @@
+{
+    "kite.showWelcomeNotificationOnStartup": false,
+    "explorer.confirmDragAndDrop": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme"
+}

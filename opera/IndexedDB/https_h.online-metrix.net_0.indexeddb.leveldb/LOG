@@ -1,0 +1,15 @@
+2021/06/08-10:39:19.751 17d9 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/08-10:39:19.752 17d9 Recovering log #4
+2021/06/08-10:39:19.752 17d9 Reusing old log /home/coco/.config/opera/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000004.log 
+2021/06/08-10:39:39.359 17d9 Level-0 table #8: started
+2021/06/08-10:39:39.403 17d9 Level-0 table #8: 190 bytes OK
+2021/06/08-10:39:39.464 17d9 Delete type=0 #4
+2021/06/08-10:39:39.464 17d9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/08-10:39:39.464 17d9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 56 : 1
+2021/06/08-10:39:39.464 17d9 Compacting 1@1 + 1@2 files
+2021/06/08-10:39:39.515 17d9 Generated table #9@1: 20 keys, 784 bytes
+2021/06/08-10:39:39.515 17d9 Compacted 1@1 + 1@2 files => 784 bytes
+2021/06/08-10:39:39.552 17d9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/08-10:39:39.553 17d9 Delete type=2 #5
+2021/06/08-10:39:39.553 17d9 Delete type=2 #8
+2021/06/08-10:39:39.560 17d9 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 56 : 1 .. (end); will stop at (end)

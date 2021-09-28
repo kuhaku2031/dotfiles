@@ -1,0 +1,6 @@
+2021/05/29-04:59:55.202 102e Creating DB /home/coco/.config/opera/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2021/05/29-04:59:55.388 102e Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/29-05:00:04.340 a61 Level-0 table #5: started
+2021/05/29-05:00:04.395 a61 Level-0 table #5: 385 bytes OK
+2021/05/29-05:00:04.432 a61 Delete type=0 #3
+2021/05/29-05:00:04.432 a61 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

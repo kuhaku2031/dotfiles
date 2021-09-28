@@ -1,0 +1,6 @@
+[General]
+AirplaneModeEnabled=false
+HotspotName=coco-hotspot
+HotspotPassword=
+ManageVirtualConnections=true
+UnlockModemOnDetection=true

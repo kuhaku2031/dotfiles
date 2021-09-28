@@ -1,0 +1,8 @@
+2021/06/08-10:39:19.865 17d9 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/08-10:39:19.865 17d9 Recovering log #4
+2021/06/08-10:39:19.865 17d9 Reusing old log /home/coco/.config/opera/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/000004.log 
+2021/06/08-10:39:49.274 1d5d Level-0 table #8: started
+2021/06/08-10:39:49.274 1d5d Level-0 table #8: 0 bytes OK
+2021/06/08-10:39:49.409 1d5d Delete type=0 #4
+2021/06/08-10:39:49.409 1d5d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/08-10:39:49.409 1d5d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

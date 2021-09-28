@@ -1,0 +1,32 @@
+[2021-07-03 10:42:31.100] [exthost] [info] extension host started
+[2021-07-03 10:42:31.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-03 10:42:31.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-07-03 10:42:31.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-03 10:42:31.386] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-07-03 10:42:31.515] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-07-03 10:42:31.519] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coco/.vscode-oss/extensions/ecmel.vscode-html-css-1.9.1/dist/extension.js
+[2021-07-03 10:42:31.580] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2021-07-03 10:42:31.580] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coco/.vscode-oss/extensions/kisstkondoros.vscode-gutter-preview-0.27.1/dist/extension
+[2021-07-03 10:42:31.731] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-07-03 10:42:31.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coco/.vscode-oss/extensions/pkief.material-icon-theme-4.7.0/dist/extension
+[2021-07-03 10:42:31.733] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2021-07-03 10:42:31.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coco/.vscode-oss/extensions/tabnine.tabnine-vscode-3.4.12/out/extension
+[2021-07-03 10:42:32.174] [exthost] [error] Activating extension kisstkondoros.vscode-gutter-preview failed due to an error:
+[2021-07-03 10:42:32.174] [exthost] [error] TypeError: Cannot read property 'fsPath' of undefined
+	at t.activate (/home/coco/.vscode-oss/extensions/kisstkondoros.vscode-gutter-preview-0.27.1/dist/extension.js:1:62877)
+	at Function._callActivateOptional (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:92:14813)
+	at Function._callActivate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:92:14486)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:92:12643
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 3)
+	at async Promise.all (index 0)
+[2021-07-03 10:42:33.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-03 10:42:33.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-07-03 10:42:33.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-03 10:42:33.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-03 10:42:33.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-03 10:42:33.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-03 10:42:34.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-03 10:42:34.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-07-03 10:42:34.511] [exthost] [info] extension host terminating: parent process 36717 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2021-07-03 10:42:35.541] [exthost] [info] exiting with code 0

@@ -1,0 +1,6 @@
+2021/05/29-05:26:53.787 a61 Creating DB /home/coco/.config/opera/IndexedDB/https_forum.garudalinux.org_0.indexeddb.leveldb since it was missing.
+2021/05/29-05:26:53.956 a61 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_forum.garudalinux.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/29-05:27:36.593 a61 Level-0 table #5: started
+2021/05/29-05:27:36.648 a61 Level-0 table #5: 75234 bytes OK
+2021/05/29-05:27:36.692 a61 Delete type=0 #3
+2021/05/29-05:27:36.693 a61 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/06/09-23:44:09.921 620 Creating DB /home/coco/.config/opera/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2021/06/09-23:44:10.053 620 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-23:44:42.717 620 Level-0 table #5: started
+2021/06/09-23:44:42.770 620 Level-0 table #5: 1231 bytes OK
+2021/06/09-23:44:42.813 620 Delete type=0 #3
+2021/06/09-23:44:42.813 620 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

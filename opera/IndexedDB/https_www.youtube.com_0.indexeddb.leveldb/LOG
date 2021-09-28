@@ -1,0 +1,24 @@
+2021/07/03-12:15:11.035 edd9 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/03-12:15:11.037 edd9 Recovering log #514
+2021/07/03-12:15:11.156 edd9 Reusing old log /home/coco/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000514.log 
+2021/07/03-12:15:30.156 edc4 Level-0 table #520: started
+2021/07/03-12:15:30.246 edc4 Level-0 table #520: 58513 bytes OK
+2021/07/03-12:15:30.306 edc4 Delete type=0 #514
+2021/07/03-12:15:30.306 edc4 Manual compaction at level-0 from '\x00\x9b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/03-12:15:30.914 edc4 Level-0 table #522: started
+2021/07/03-12:15:30.992 edc4 Level-0 table #522: 1614 bytes OK
+2021/07/03-12:15:31.073 edc4 Delete type=0 #519
+2021/07/03-12:15:31.074 edc4 Manual compaction at level-0 from '\x00\x9c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x9d\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 134116 : 1
+2021/07/03-12:15:31.074 edc4 Compacting 1@0 + 1@1 files
+2021/07/03-12:15:31.155 edc4 Generated table #523@0: 491 keys, 6063 bytes
+2021/07/03-12:15:31.155 edc4 Compacted 1@0 + 1@1 files => 6063 bytes
+2021/07/03-12:15:31.275 edc4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/03-12:15:31.275 edc4 Delete type=2 #522
+2021/07/03-12:15:31.275 edc4 Manual compaction at level-0 from '\x00\x9d\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 134116 : 1 .. '\x00\x9d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/03-12:18:54.589 eda2 Compacting 1@1 + 1@2 files
+2021/07/03-12:18:54.714 eda2 Generated table #524@1: 219 keys, 5803 bytes
+2021/07/03-12:18:54.714 eda2 Compacted 1@1 + 1@2 files => 5803 bytes
+2021/07/03-12:18:54.781 eda2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/03-12:18:54.782 eda2 Delete type=2 #520
+2021/07/03-12:18:54.782 eda2 Delete type=2 #523
+2021/07/03-12:18:54.782 eda2 Delete type=2 #517

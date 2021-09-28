@@ -1,0 +1,6 @@
+2021/06/03-23:07:34.719 6861 Creating DB /home/coco/.config/opera/IndexedDB/https_ubunlog.com_0.indexeddb.leveldb since it was missing.
+2021/06/03-23:07:34.906 6861 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_ubunlog.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/03-23:07:55.975 70e3 Level-0 table #5: started
+2021/06/03-23:07:56.040 70e3 Level-0 table #5: 5814 bytes OK
+2021/06/03-23:07:56.106 70e3 Delete type=0 #3
+2021/06/03-23:07:56.107 70e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

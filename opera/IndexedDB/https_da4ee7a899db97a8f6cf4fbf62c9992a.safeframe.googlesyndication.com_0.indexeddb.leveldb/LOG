@@ -1,0 +1,6 @@
+2021/05/29-03:55:49.222 e15 Creating DB /home/coco/.config/opera/IndexedDB/https_da4ee7a899db97a8f6cf4fbf62c9992a.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/05/29-03:55:49.368 e15 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_da4ee7a899db97a8f6cf4fbf62c9992a.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/29-03:56:06.278 e15 Level-0 table #5: started
+2021/05/29-03:56:06.333 e15 Level-0 table #5: 460 bytes OK
+2021/05/29-03:56:06.376 e15 Delete type=0 #3
+2021/05/29-03:56:06.377 e15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

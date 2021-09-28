@@ -1,0 +1,15 @@
+2021/06/04-02:51:33.811 d908 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_forum.snapcraft.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-02:51:33.812 d908 Recovering log #4
+2021/06/04-02:51:33.812 d908 Reusing old log /home/coco/.config/opera/IndexedDB/https_forum.snapcraft.io_0.indexeddb.leveldb/000004.log 
+2021/06/04-02:52:06.200 d908 Level-0 table #8: started
+2021/06/04-02:52:06.408 d908 Level-0 table #8: 2108 bytes OK
+2021/06/04-02:52:06.524 d908 Delete type=0 #4
+2021/06/04-02:52:06.525 d908 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/04-02:52:06.526 d906 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00P+\x18`\x9dwB\x00\x01^\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00s\x00n\x00a\x00p\x00c\x00r\x00a\x00f\x00t\x00.\x00i\x00o\x00/\x00u\x00s\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00s\x00n\x00a\x00p\x00c\x00r\x00a\x00f\x00t\x00.\x00i\x00o\x00/\x00k\x00e\x00n\x00v\x00a\x00n\x00d\x00i\x00n\x00e\x00/\x004\x000\x00/\x004\x003\x008\x007\x00_\x002\x00.\x00p\x00n\x00g' @ 2638 : 1
+2021/06/04-02:52:06.526 d906 Compacting 1@1 + 1@2 files
+2021/06/04-02:52:06.630 d906 Generated table #9@1: 414 keys, 49825 bytes
+2021/06/04-02:52:06.630 d906 Compacted 1@1 + 1@2 files => 49825 bytes
+2021/06/04-02:52:06.747 d906 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/04-02:52:06.748 d906 Delete type=2 #5
+2021/06/04-02:52:06.748 d906 Delete type=2 #8
+2021/06/04-02:52:06.750 d906 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00P+\x18`\x9dwB\x00\x01^\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00s\x00n\x00a\x00p\x00c\x00r\x00a\x00f\x00t\x00.\x00i\x00o\x00/\x00u\x00s\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00s\x00n\x00a\x00p\x00c\x00r\x00a\x00f\x00t\x00.\x00i\x00o\x00/\x00k\x00e\x00n\x00v\x00a\x00n\x00d\x00i\x00n\x00e\x00/\x004\x000\x00/\x004\x003\x008\x007\x00_\x002\x00.\x00p\x00n\x00g' @ 2638 : 1 .. (end); will stop at (end)

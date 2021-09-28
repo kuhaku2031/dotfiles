@@ -1,0 +1,50 @@
+{
+   "background": {
+      "page": "lib/chrome/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_title": "Website Theme Manager"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "data/content_script/inject.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "data/content_script/userstyles.css" ],
+      "js": [ "data/content_script/userstyles.js" ],
+      "matches": [ "https://*.userstyles.org/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Change your desired website's look! Choose your style from userstyles.org or write your own!",
+   "developer": {
+      "name": "milenmonrov"
+   },
+   "homepage_url": "http://mybrowseraddon.com/website-theme-manager.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7PSJIk7adTBFiKO3tmzA3If73erOsgnYeVeJ1g/yw4HzRBzbWDmeTSXTq2ZoZzRgeWtN78/nvFGb1NpDZZKY0+g14q99Dacr+VTYU7P61QWf2f5AGTOFRerveqGI/y6HB7XJ0bomSHEJ/E3GosSU97lAa/QwL9uDlwPvBA+4mpFdsvSTjml59IciOSACFFDdwnB0eMDZriGC8j4AB1g2cHIXpTlysC2nArtI+IqI9yUXZzAHxT2KiYAwRgbwi59+FW332OKIP2QpRgm2wyrP7/4HuhQbKcOSoIjk2ckGXh831fWsDsPvj95BxBa4TiWD9ykEaSmt2e+u58BoaIK4QIDAQAB",
+   "manifest_version": 2,
+   "name": "Website Theme Manager",
+   "options_ui": {
+      "chrome_style": true,
+      "open_in_tab": true,
+      "page": "data/options/options.html"
+   },
+   "permissions": [ "tabs", "storage", "\u003Call_urls>", "unlimitedStorage" ],
+   "short_name": "website-theme-manager",
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "0.1.5",
+   "web_accessible_resources": [ "data/content_script/loading.gif", "data/content_script/saved.png" ]
+}

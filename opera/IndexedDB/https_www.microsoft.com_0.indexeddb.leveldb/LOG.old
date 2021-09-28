@@ -1,0 +1,6 @@
+2021/06/07-09:12:52.686 3b8 Creating DB /home/coco/.config/opera/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb since it was missing.
+2021/06/07-09:12:52.811 3b8 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/07-09:13:19.776 3b8 Level-0 table #5: started
+2021/06/07-09:13:19.828 3b8 Level-0 table #5: 1222 bytes OK
+2021/06/07-09:13:19.863 3b8 Delete type=0 #3
+2021/06/07-09:13:19.863 3b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

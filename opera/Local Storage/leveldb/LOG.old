@@ -1,0 +1,6 @@
+2021/06/26-06:00:09.652 3 Reusing MANIFEST /home/coco/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2021/06/26-06:00:09.722 3 Recovering log #171
+2021/06/26-06:00:09.751 3 Reusing old log /home/coco/.config/opera/Local Storage/leveldb/000171.log 
+2021/06/26-06:25:18.832 5 Level-0 table #176: started
+2021/06/26-06:25:18.891 5 Level-0 table #176: 19704 bytes OK
+2021/06/26-06:25:18.933 5 Delete type=0 #171

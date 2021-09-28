@@ -1,0 +1,6 @@
+2021/06/04-02:49:59.638 d905 Creating DB /home/coco/.config/opera/IndexedDB/https_forum.snapcraft.io_0.indexeddb.leveldb since it was missing.
+2021/06/04-02:50:00.030 d905 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_forum.snapcraft.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-02:51:05.924 d906 Level-0 table #5: started
+2021/06/04-02:51:05.978 d906 Level-0 table #5: 122674 bytes OK
+2021/06/04-02:51:06.017 d906 Delete type=0 #3
+2021/06/04-02:51:06.017 d906 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/06/03-22:46:42.030 54bb Creating DB /home/coco/.config/opera/IndexedDB/https_www.pcworld.es_0.indexeddb.leveldb since it was missing.
+2021/06/03-22:46:42.136 54bb Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.pcworld.es_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/03-22:47:17.187 512b Level-0 table #5: started
+2021/06/03-22:47:17.241 512b Level-0 table #5: 922851 bytes OK
+2021/06/03-22:47:17.286 512b Delete type=0 #3
+2021/06/03-22:47:17.288 512b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

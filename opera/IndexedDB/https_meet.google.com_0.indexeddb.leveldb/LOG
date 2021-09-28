@@ -1,0 +1,15 @@
+2021/06/06-06:51:25.938 38d Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/06-06:51:25.939 38d Recovering log #15
+2021/06/06-06:51:25.939 38d Reusing old log /home/coco/.config/opera/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000015.log 
+2021/06/06-06:52:17.629 38e Level-0 table #19: started
+2021/06/06-06:52:17.674 38e Level-0 table #19: 897 bytes OK
+2021/06/06-06:52:17.708 38e Delete type=0 #15
+2021/06/06-06:52:17.708 38e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/06-06:52:17.708 38e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 454 : 1
+2021/06/06-06:52:17.708 38e Compacting 1@1 + 1@2 files
+2021/06/06-06:52:17.741 38e Generated table #20@1: 35 keys, 2399 bytes
+2021/06/06-06:52:17.741 38e Compacted 1@1 + 1@2 files => 2399 bytes
+2021/06/06-06:52:17.774 38e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/06-06:52:17.775 38e Delete type=2 #13
+2021/06/06-06:52:17.775 38e Delete type=2 #19
+2021/06/06-06:52:17.775 38e Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 454 : 1 .. (end); will stop at (end)

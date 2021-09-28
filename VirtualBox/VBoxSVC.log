@@ -1,0 +1,53 @@
+00:00:00.085538 main     VirtualBox XPCOM Server 6.1.22 r144080 linux.amd64 (May 11 2021 19:59:25) release log
+00:00:00.085548 main     Log opened 2021-06-09T14:56:56.769656000Z
+00:00:00.085550 main     Build Type: release
+00:00:00.085563 main     OS Product: Linux
+00:00:00.085569 main     OS Release: 5.12.9-arch1-1
+00:00:00.085574 main     OS Version: #1 SMP PREEMPT Thu, 03 Jun 2021 11:36:13 +0000
+00:00:00.085682 main     DMI Product Name: X441NA
+00:00:00.085724 main     DMI Product Version: 1.0       
+00:00:00.085748 main     Firmware type: UEFI
+00:00:00.087198 main     Secure Boot: Disabled
+00:00:00.087353 main     Host RAM: 3792MB (3.7GB) total, 3407MB (3.3GB) available
+00:00:00.087375 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.087376 main     Process ID: 33105
+00:00:00.087377 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.090512 main     IPC socket path: /tmp/.vbox-coco-ipc/ipcd
+00:00:00.236695 nspr-2   VirtualBox: object creation starts
+00:00:00.236870 nspr-2   Home directory: '/home/coco/.config/VirtualBox'
+00:00:00.263161 nspr-2   Loading settings file "/home/coco/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.310874 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.343503 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.349314 nspr-2   HostDnsMonitor: initializing
+00:00:00.350213 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.350318 nspr-2   HostDnsMonitor: updating information
+00:00:00.350360 nspr-2   HostDnsMonitor: old information
+00:00:00.350367 nspr-2     no server entries
+00:00:00.350373 nspr-2     no domain set
+00:00:00.350378 nspr-2     no search string entries
+00:00:00.350383 nspr-2   HostDnsMonitor: new information
+00:00:00.350388 nspr-2     server 1: 192.168.1.1
+00:00:00.350394 nspr-2     no domain set
+00:00:00.350399 nspr-2     no search string entries
+00:00:00.388848 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.458183 nspr-2   Loading settings file "/home/coco/VirtualBox VMs/windows/windows.vbox" with version "1.15-linux"
+00:00:00.470990 nspr-2   VirtualBox: object created
+00:00:22.255539 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:22.268794 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:06.696326 nspr-3   Saving settings file "/home/coco/VirtualBox VMs/windows/windows.vbox" with version "1.15-linux"
+00:01:16.941865 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:16.955507 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:34.120444 nspr-4   Launched VM: 3019903792 pid: 33146 (0x817a) frontend: GUI/Qt name: windows
+00:01:36.035927 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:41.274671 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:41.371595 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:49.773536 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:16:30.887807 nspr-6   Saving settings file "/home/coco/VirtualBox VMs/windows/windows.vbox" with version "1.15-linux"
+00:17:07.849198 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:17:07.868902 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:19:27.186394 nspr-5   Saving settings file "/home/coco/VirtualBox VMs/windows/windows.vbox" with version "1.15-linux"
+00:19:28.904091 nspr-2   Launched VM: 3356152704 pid: 33261 (0x81ed) frontend: GUI/Qt name: windows
+00:19:34.993500 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:19:38.357246 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:19:38.383650 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:43:09.598038 nspr-6   Saving settings file "/home/coco/VirtualBox VMs/windows/windows.vbox" with version "1.15-linux"

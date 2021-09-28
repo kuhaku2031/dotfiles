@@ -1,0 +1,6 @@
+2021/07/03-12:15:02.370 edc7 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/03-12:15:02.371 edc7 Recovering log #4
+2021/07/03-12:15:04.600 edc7 Reusing old log /home/coco/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2021/07/03-12:15:51.988 edd9 Level-0 table #8: started
+2021/07/03-12:15:52.272 edd9 Level-0 table #8: 1901427 bytes OK
+2021/07/03-12:15:52.310 edd9 Delete type=0 #4

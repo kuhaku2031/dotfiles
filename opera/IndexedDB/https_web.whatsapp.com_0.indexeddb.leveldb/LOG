@@ -1,0 +1,36 @@
+2021/06/08-06:02:11.205 a3c Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/08-06:02:11.206 a3c Recovering log #27
+2021/06/08-06:02:11.709 a3c Reusing old log /home/coco/.config/opera/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000027.log 
+2021/06/08-06:10:02.336 a3c Level-0 table #33: started
+2021/06/08-06:10:02.509 a3c Level-0 table #33: 1333356 bytes OK
+2021/06/08-06:10:02.601 a3c Delete type=0 #27
+2021/06/08-06:10:59.141 a4b Compacting 1@1 + 2@2 files
+2021/06/08-06:10:59.504 a4b Generated table #34@1: 49087 keys, 2243152 bytes
+2021/06/08-06:10:59.614 a4b Generated table #35@1: 3738 keys, 409871 bytes
+2021/06/08-06:10:59.614 a4b Compacted 1@1 + 2@2 files => 2653023 bytes
+2021/06/08-06:10:59.657 a4b compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/06/08-06:10:59.658 a4b Delete type=2 #33
+2021/06/08-06:10:59.658 a4b Delete type=2 #29
+2021/06/08-06:10:59.658 a4b Delete type=2 #30
+2021/06/08-08:56:11.742 c07 Level-0 table #37: started
+2021/06/08-08:56:11.883 c07 Level-0 table #37: 1290131 bytes OK
+2021/06/08-08:56:11.956 c07 Delete type=0 #32
+2021/06/08-08:56:25.889 113d Compacting 1@1 + 2@2 files
+2021/06/08-08:56:26.162 113d Generated table #38@1: 44303 keys, 2241898 bytes
+2021/06/08-08:56:26.273 113d Generated table #39@1: 13062 keys, 640933 bytes
+2021/06/08-08:56:26.274 113d Compacted 1@1 + 2@2 files => 2882831 bytes
+2021/06/08-08:56:26.310 113d compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/06/08-08:56:26.311 113d Delete type=2 #34
+2021/06/08-08:56:26.311 113d Delete type=2 #37
+2021/06/08-08:56:26.311 113d Delete type=2 #35
+2021/06/08-13:06:44.444 1f0a Level-0 table #41: started
+2021/06/08-13:06:44.603 1f0a Level-0 table #41: 1210881 bytes OK
+2021/06/08-13:06:44.678 1f0a Delete type=0 #36
+2021/06/08-13:15:30.440 1f3c Compacting 1@1 + 2@2 files
+2021/06/08-13:15:30.754 1f3c Generated table #42@1: 40617 keys, 2239656 bytes
+2021/06/08-13:15:30.877 1f3c Generated table #43@1: 21122 keys, 846981 bytes
+2021/06/08-13:15:30.877 1f3c Compacted 1@1 + 2@2 files => 3086637 bytes
+2021/06/08-13:15:30.919 1f3c compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/06/08-13:15:30.920 1f3c Delete type=2 #41
+2021/06/08-13:15:30.920 1f3c Delete type=2 #39
+2021/06/08-13:15:30.920 1f3c Delete type=2 #38

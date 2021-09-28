@@ -1,0 +1,6 @@
+2021/06/04-00:28:32.709 9c4 Creating DB /home/coco/.config/opera/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb since it was missing.
+2021/06/04-00:28:32.856 9c4 Reusing MANIFEST /home/coco/.config/opera/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-00:28:56.164 9c4 Level-0 table #5: started
+2021/06/04-00:28:56.211 9c4 Level-0 table #5: 5827 bytes OK
+2021/06/04-00:28:56.254 9c4 Delete type=0 #3
+2021/06/04-00:28:56.256 9c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

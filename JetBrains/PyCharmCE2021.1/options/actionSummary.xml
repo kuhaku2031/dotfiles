@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="27" l="1622636804476" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1622636816925" />
+    </e>
+    <e n="EditorRight">
+      <i c="7" l="1622636833940" />
+    </e>
+    <e n="Exit">
+      <i c="2" l="1622553198765" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1622550821028" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1622550815968" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1622636669979" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1622552837725" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1622552789602" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1622636837501" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="1" l="1622636813080" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1622636812918" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1622539571102" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
+      <i c="3" l="1622636699035" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1622539307948" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1622539578606" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1622539276417" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1622539363106" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$AddInterpreterAction">
+      <i c="1" l="1622553063409" />
+    </e>
+  </component>
+</application>

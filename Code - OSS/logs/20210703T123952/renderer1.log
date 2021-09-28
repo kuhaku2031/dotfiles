@@ -1,0 +1,4 @@
+[2021-07-03 12:40:03.252] [renderer1] [error] Problems parsing file icons file: Value expected: Error: Problems parsing file icons file: Value expected
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:60675
+    at async file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2189:1668
+    at async Promise.all (index 1)
